@@ -1,4 +1,4 @@
 # hello-world
 Just another repository
-<h1> Hi </h1>
+<h1 style="color: pink"> Hi </h1>
 
